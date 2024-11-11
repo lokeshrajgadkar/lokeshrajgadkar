@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Animist-App](https://animist-app.web.app/)
+- 🔭 I’m currently working on [Weather-App](https://weatherwebapp-by-lokeshr.web.app/)
 
-- 🌱 I’m currently learning **React Js And React Native**
+- 🌱 I’m currently learning **React Js And Next Js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
